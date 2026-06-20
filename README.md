@@ -135,6 +135,5 @@ python -m streamlit run app.py
 ---
 
 # Author
-
-Dheeksha S
+Idreeze Baig S
 VIT, Vellore
